@@ -1,4 +1,4 @@
-# Projet GeoProb
+# GeoProb Project with Mines Paris
 
       ____            ____            _     
      / ___| ___  ___ |  _ \ _ __ ___ | |__  
