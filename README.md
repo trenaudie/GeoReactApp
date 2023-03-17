@@ -25,7 +25,7 @@ Backend:
  - Python - Flask - SQLAlchemy 
  - MakeFile 
  - PostgreSQL
-- 
+
 
 Frontend: React Native - JS 
 
